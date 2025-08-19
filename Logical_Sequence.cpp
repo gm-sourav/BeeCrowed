@@ -9,8 +9,7 @@ int main()
     for (int i = 1; i <= n; i++)
     {
 
-        cout << i << " " << i * i << " " << i * i * i << " " << endl;
-        cout << i << " " << i * i + 1 << " " << i * i * i + 1 << " " << endl;
-        
+        cout << i << " " << i * i << " " << i * i * i << endl;
+        cout << i << " " << i * i + 1 << " " << i * i * i + 1 << endl;
     }
 }
