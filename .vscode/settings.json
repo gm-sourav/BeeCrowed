@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "BEE_1113.C": "cpp",
+        "iostream": "cpp"
+    }
+}
